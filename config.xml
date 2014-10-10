@@ -2,16 +2,16 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
 
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "Ales"
+        id          = "Graphite"
         version     = "1.0.0"
         versionCode = "10" >
 
         <!-- versionCode is optional and Android only -->
         
-        <name>Ales</name>
+        <name>Graphite</name>
 
 	<description>
-		Plenário Virtual.
+		Graphite.
 	</description>
 
 	<author href="Tavola" email="tavola@gmail.com">
